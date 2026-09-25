@@ -1,7 +1,3 @@
-# NawafAlfawzan.github.io
-
-# Nawaf Alfawzan · Portfolio
-
 Personal portfolio of **Nawaf Alfawzan**, an Information Systems student on the Cybersecurity track at Prince Sultan University in Riyadh. CompTIA Security+ certified and aiming for GRC and cyber risk roles.
 
 **Live site:** https://nniiece.github.io/NawafAlfawzan.github.io/
